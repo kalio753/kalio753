@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Lin</h1>
 <h3 align="center">A passionate frontend developer whom is a Chinese based in HCMC, Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalio753&label=Profile%20views&color=0e75b6&style=flat" alt="kalio753" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalio753" alt="kalio753" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jie.lin03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jie.lin03" height="30" width="40" /></a>
